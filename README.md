@@ -15,7 +15,7 @@ Comenzamos?
 - Creá tu proyecto desde la [consola de administración de Firebase](https://console.firebase.google.com).
 - Copiá el código de inicialización en el archivo index.html. Lo podés hacer clickeando el logo rojo de HTML
   en la esquina superior derecha de la página con el nombre "Add Firebase to your web app" ("Agregar Firebase a tu app web"). El código que aparece debe ubicarse dentro de la etiqueta `<head>` del `index.html`.
-  ![imagen boton](https://github.com/ptf-houssay/firebase-database/img/pic1.png "Botón Web")
+  ![imagen botón](https://raw.githubusercontent.com/ptf-houssay/firebase-database/master/img/pic1.png "Botón Web")
 - Habilitá Google Auth en la solapa **Auth > SIGN IN METHOD** .
 - Ejecutá `firebase serve` desde la línea de comandos de tu computadora (usando la herramienta [Firebase CLI](https://github.com/ptf-houssay/firebase-database#instalación)) para iniciar un server Firebase local.
 
